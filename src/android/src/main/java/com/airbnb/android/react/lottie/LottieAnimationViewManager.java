@@ -5,11 +5,11 @@ import android.content.Context;
 import android.content.ContextWrapper;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.v4.view.ViewCompat;
 import android.widget.ImageView;
 import android.view.View.OnAttachStateChangeListener;
 import android.view.View;
 
+import androidx.core.view.ViewCompat;
 import com.airbnb.lottie.LottieAnimationView;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
